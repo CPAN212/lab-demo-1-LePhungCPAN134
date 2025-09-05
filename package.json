@@ -1,0 +1,27 @@
+{
+  "name": "lab-demo-1-lephungcpan134",
+  "version": "1.0.0",
+  "description": "1. **Initialize the project**",
+  "homepage": "https://github.com/CPAN212/lab-demo-1-LePhungCPAN134#readme",
+  "bugs": {
+    "url": "https://github.com/CPAN212/lab-demo-1-LePhungCPAN134/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPAN212/lab-demo-1-LePhungCPAN134.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/lab.js",
+    "test": "jest"
+  },
+
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
+
+
